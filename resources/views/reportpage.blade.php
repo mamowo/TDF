@@ -8,6 +8,7 @@
 </head>
 <body>
     <h2> This is report page</h2>
+    <h2> This is report page</h2>
 
 </body>
 </html>
